@@ -1,0 +1,2 @@
+c:\users\mctavish\documents\visual studio 2013\Projects\Fixed Text to CSV App\Fixed Text to CSV App\bin\Debug\Fixed Text to CSV App.exe.config
+C:\Users\McTavish\Documents\Visual Studio 2013\Projects\Fixed Text to CSV App\Fixed-Text-to-CSV-App\bin\Debug\Fixed Text to CSV App.exe.config
